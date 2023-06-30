@@ -1,0 +1,60 @@
+body{
+    padding: 30px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box{
+    background-color: #eeeeee;
+    border-radius: 1%;
+}
+
+h1{
+    padding: 0px;
+    margin-bottom: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Inconsolata';
+}
+
+.slogan{
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+img{
+    display: block;
+    width: 50%;
+    height: auto;
+    /* align-items: center; */
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid;
+    border-color: rgb(213, 212, 209);
+    border-radius: 5px;
+}
+
+div{
+    background-color: #eeeeee;
+}
+
+.intro{
+    text-align: center;
+    padding: 0px;
+    margin: 50px;
+}
+
+.timeline{
+    padding: 0px;
+    margin: 50px;
+}
+
+.points{
+    padding: 0px;
+    margin: 60px;
+}
